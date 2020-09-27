@@ -11,8 +11,9 @@
 ## [My Log](TXT/mylog.txt)
 <br>
 <br>
-<br>
+
 ### Operating Systems 202 Weekly Top 10 List
-* [Week 00](W00/)
-* [Week 01](W01/)
+
+* [Week 00](W00/) <br>
+* [Week 01](W01/) <br>
 
