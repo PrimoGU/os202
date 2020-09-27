@@ -9,7 +9,7 @@
 # My Name is Primo
 
 ### [My Log](TXT/mylog.txt) 
-<br>
+
 <br>
 
 ## Operating Systems 202 Weekly Top 10 List <br>
