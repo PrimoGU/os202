@@ -10,6 +10,6 @@ ZCZC  W01  40  L11  Assignment #1
 ZCZC  W01  15  L09  AsDos: Asking something
 ZCZC  W01  45  L14  Assignment #4
 ZCZC  W01  30  L01  Scele related
-ZCZC  W01  10  L03  GitHub related
+ZCZC  W01  15  L03  GitHub related
 ZCZC  W01 120  L06  Reading References/Books/Documents
 ZCZC  W01  60  L18  Assignment #8
