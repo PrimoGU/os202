@@ -17,3 +17,6 @@ ZCZC  W02  10  L03  GitHub related
 ZCZC  W02  20  L12  Assignment #2
 ZCZC  W02  15  L13  Assignment #3
 ZCZC  W02  30  L14  Assignment #4
+ZCZC  W02  60  L06  Reading References/Books/Documents
+ZCZC  W02  10  L04  GitHub Pages: setting, etc.
+ZCZC  W02  20  L15  Assignment #5
