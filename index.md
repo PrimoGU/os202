@@ -4,8 +4,8 @@
 [GitHub Repo](https://github.com/primogu/os202/)<br>
 
 # My Name is Primo
-<p>My name is Primo Giancarlo Uneputty, a Computer Science student of Fasilkom UI. My student ID is 1806205180.<p><br>
-<p>This is my GitHub Page for the Operating Systems (OS) course assignments.<p>
+<p>My name is Primo Giancarlo Uneputty. I'm a 5th semester Computer Science student of Fasilkom UI. My student ID is 1806205180.</p>
+<p>This is my GitHub Page for the Operating Systems (OS) course assignments.</p> <br>
 <hr>
 
 ## My Important Stuffs <br>
@@ -14,7 +14,7 @@
 * [My Public Key](TXT/mypubkey.txt) <br>
 * [My Script](TXT/myscript.sh) <br>
 * [SHA256SUM](TXT/SHA256SUM) <br>
-* [SHA256SUM.asc](TXT/SHA256SUM.asc)
+* [SHA256SUM.asc](TXT/SHA256SUM.asc) <br>
 <hr>
 
 ## Operating Systems 202 Weekly Top 10 List <br>
