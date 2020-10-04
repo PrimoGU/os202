@@ -4,8 +4,8 @@
 [GitHub Repo](https://github.com/primogu/os202/)<br>
 
 # My Name is Primo
-<p>My name is Primo Giancarlo Uneputty. I'm a 5th semester Computer Science student of Fasilkom UI. My student ID is 1806205180.</p>
-<p>This is my GitHub Page for the Operating Systems (OS) course assignments.</p> <br>
+<p>Hi! My name is Primo Giancarlo Uneputty. I'm a 5th semester Computer Science student of Fasilkom UI. My student ID is 1806205180.</p>
+<p>This is my GitHub Page for the Operating Systems (OS) course assignments.</p>
 <hr>
 
 ## My Important Stuffs <br>
