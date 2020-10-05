@@ -5,14 +5,11 @@
 
 echo "Enter your commit message"
 read message
+git status
+git pull
 git add -A
 git commit -m "${message}"
-if [ -n "$(git status - porcelain)" ];
-then
-	echo "It is clean, nothing to commit..."
-else
-	git pull
-	git status
-	echo "Pushing data to remote server..."
-	git push
+git status
+echo "Pushing data to remote server..."
+git push
 fi
