@@ -12,7 +12,8 @@
 * [My Log](TXT/mylog.txt) <br>
 * [My Neighbor Rank List](TXT/myrank.txt) <br>
 * [My Public Key](TXT/mypubkey.txt) <br>
-* [My Script](TXT/myscript.sh) <br>
+* [My Script (From cbkadal)](TXT/myscript.sh) <br>
+* [My Useful Script (New script to git push)](TXT/myscript.txt) <br>
 * [SHA256SUM](TXT/SHA256SUM) <br>
 * [SHA256SUM.asc](TXT/SHA256SUM.asc) <br>
 <hr>
