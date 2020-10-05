@@ -12,4 +12,3 @@ git commit -m "${message}"
 git status
 echo "Pushing data to remote server..."
 git push
-fi
