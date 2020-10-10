@@ -21,7 +21,7 @@
 <hr>
 
 ## Operating Systems 202 Weekly Top 10 List <br>
-* [Week 00](W00/) <br>
-* [Week 01](W01/) <br>
-* [Week 02](W02/) <br>
-
+* [Top 10 Week 00](W00/) <br>
+* [Top 10 Week 01](W01/) <br>
+* [Top 10 Week 02](W02/) <br>
+* [Top 10 Week 03](W03/) <br>
