@@ -24,3 +24,10 @@ ZCZC  W02  60  L16  Assignment #6
 ZCZC  W02  30  L08  Trying something
 ZCZC  W02  45  L19  Assignment #9
 ZCZC  W02  15  L17  Assignment #7
+ZCZC  W03  60  L06  Reading Refereces/Books/Documents
+ZCZC  W03  45  L07  Demo related
+ZCZC  W03  50  L05  GSGS related
+ZCZC  W03  15  L13  Assignment #3
+ZCZC  W03  30  L16  Assignment #6
+ZCZC  W03  30  L17  Assignment #7
+ZCZC  W03  20  L03  GitHub related
