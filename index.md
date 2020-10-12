@@ -13,7 +13,6 @@
 * [My Neighbor Rank List](TXT/myrank.txt) <br>
 * [My Public Key](TXT/mypubkey.txt) <br>
 * [My Script (From cbkadal)](TXT/myscript.sh) <br>
-* [My Useful Script (New script to git push)](TXT/usefulscript.txt) <br>
 * [My Week 03 Token](TXT/myW03token.txt) <br>
 * [My Week 03 Disk Usage](TXT/myW03disk.txt) <br>
 * [SHA256SUM](TXT/SHA256SUM) <br>
