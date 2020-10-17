@@ -34,3 +34,8 @@ ZCZC  W03  30  L03  GitHub related
 ZCZC  W03  20  L14  Assignment #4
 ZCZC  W03 120  L06  Reading Refereces/Books/Documents
 ZCZC  W03  40  L15  Assignment #5
+ZCZC  W04  50  L06  Reading References/Books/Documents
+ZCZC  W04  30  L07  Demo related
+ZCZC  W04  20  L15  Assignment #5
+ZCZC  W04  15  L09  Asdos: Asking something
+ZCZC  W04  20  L16  Assignment #6
