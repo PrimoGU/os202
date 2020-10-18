@@ -1,4 +1,4 @@
-# My Top 10 Neighbors Ranking List
+# My Top 10 Neighbors Weekly Ranking List
 
 # Week00
 ZCZC W00 rioafirando
@@ -14,3 +14,8 @@ ZCZC W01 nyomangedar
 ZCZC W02 qiwqiw
 ZCZC W02 rabialco
 ZCZC W02 rioafirando
+
+# Week03
+ZCZC W03 rabialco
+ZCZC W03 nmhlog
+ZCZC W03 raihanarmon
