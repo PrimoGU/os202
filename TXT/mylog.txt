@@ -41,3 +41,5 @@ ZCZC  W04  15  L09  Asdos: Asking something
 ZCZC  W04  20  L16  Assignment #6
 ZCZC  W04  30  L03  GitHub related
 ZCZC  W04  15  L13  Assignment #3
+ZCZC  W04 150  L06  Reading References/Books/Documents
+ZCZC  W04  40  L14  Assignment #4
