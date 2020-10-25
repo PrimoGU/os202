@@ -19,3 +19,8 @@ ZCZC W02 rioafirando
 ZCZC W03 rabialco
 ZCZC W03 nmhlog
 ZCZC W03 raihanarmon
+
+# Week04
+ZCZC W04 qiwqiw
+ZCZC W04 raihanarmon
+ZCZC W04 rabialco
