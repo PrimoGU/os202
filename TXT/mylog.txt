@@ -43,3 +43,9 @@ ZCZC  W04  30  L03  GitHub related
 ZCZC  W04  15  L13  Assignment #3
 ZCZC  W04 150  L06  Reading References/Books/Documents
 ZCZC  W04  40  L14  Assignment #4
+ZCZC  W05  50  L06  Reading References/Books/Documents
+ZCZC  W05  30  L15  Assignment #5
+ZCZC  W05  30  L16  Assignment #6
+ZCZC  W05  15  L19  Assignment #9
+ZCZC  W05  40  L05  GSGS related
+ZCZC  W05  20  L03  GitHub related
