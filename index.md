@@ -13,12 +13,17 @@
 * [My Neighbor Rank List](TXT/myrank.txt) <br>
 * [My Public Key](TXT/mypubkey.txt) <br>
 * [My Script (From cbkadal)](TXT/myscript.sh) <br>
+* [SHA256SUM](TXT/SHA256SUM) <br>
+* [SHA256SUM.asc](TXT/SHA256SUM.asc) <br>
+<hr>
+
+## Weekly Assignment Files <br>
 * [My Week 03 Token](TXT/myW03token.txt) <br>
 * [My Week 03 Disk Usage](TXT/myW03disk.txt) <br>
 * [My Week 04 Token](TXT/myW04token.txt) <br>
 * [My Week 04 Results](TXT/myW04.txt) <br>
-* [SHA256SUM](TXT/SHA256SUM) <br>
-* [SHA256SUM.asc](TXT/SHA256SUM.asc) <br>
+* [My Week 05 Token](TXT/myW05token.txt) <br>
+* [My Week 05 Results](TXT/myW05.txt) <br>
 <hr>
 
 ## Operating Systems 202 Weekly Top 10 List <br>
@@ -27,3 +32,4 @@
 * [Top 10 Week 02](W02/) <br>
 * [Top 10 Week 03](W03/) <br>
 * [Top 10 Week 04](W04/) <br>
+* [Top 10 Week 05](W05/) <br>
