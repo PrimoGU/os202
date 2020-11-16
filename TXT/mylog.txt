@@ -57,7 +57,7 @@ ZCZC  W05  20  L03  GitHub related
 ZCZC  W06  45  L06  Reading References/Books/Documents
 ZCZC  W06  30  L12  Assignment #2
 ZCZC  W06  40  L15  Assignment #5
-ZCZC  W06 120  L16  Assignment #6
+ZCZC  W06 150  L16  Assignment #6
 ZCZC  W06  60  L08  Trying something
 ZCZC  W06  20  L20  Assignment #10
 ZCZC  W06  20  L21  Assignment #11
