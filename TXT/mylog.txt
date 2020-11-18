@@ -75,6 +75,8 @@ ZCZC  W07 100  L17  Assignment #7
 ZCZC  W07  60  L08  Trying something
 ZCZC  W07  20  L21  Assignment #11
 ZCZC  W07  20  L22  Assignment #12
+ZCZC  W07  30  L04  GitHub Pages
+ZCZC  W07  20  L14  Assignment $4
 ZCZC  W07  15  L18  Assignment #8
 ZCZC  W07  15  L20  Assignment #10
-ZCZC  W07  20  L03  GitHub related
+ZCZC  W07  20  L03  GitHub related 

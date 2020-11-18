@@ -29,3 +29,9 @@ ZCZC W04 rabialco
 ZCZC W05 raihanarmon
 ZCZC W05 nyomangedar
 ZCZC W05 rabialco
+
+# Week06
+ZCZC W06 putrisalsa26
+ZCZC W06 rabialco
+ZCZC W06 raihanarmon
+
