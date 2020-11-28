@@ -42,3 +42,4 @@
 * [Top 10 Week 05](W05/) <br>
 * [Top 10 Week 06](W06/) <br>
 * [Top 10 Week 07](W07/) <br>
+* [Top 10 Week 08](W08/) <br>
