@@ -29,6 +29,8 @@
 * [My Week 06 Encrypted](TXT/myW06.tar.bz2.txt) <br>
 * [My Week 07 Token](TXT/myW07token.txt) <br>
 * [My Week 07 Encrypted](TXT/myW07.tar.bz2.txt) <br>
+* [My Week 08 Token](TXT/myW08token.txt) <br>
+* [My Week 08 Encrypted](TXT/myW08.tar.bz2.txt) <br>
 <hr>
 
 ## Operating Systems 202 Weekly Top 10 List <br>
