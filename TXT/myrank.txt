@@ -35,3 +35,7 @@ ZCZC W06 putrisalsa26
 ZCZC W06 rabialco
 ZCZC W06 raihanarmon
 
+# Week07
+ZCZC W06 raihamarmon
+ZCZC W06 rabialco
+ZCZC W06 piawaisaid
