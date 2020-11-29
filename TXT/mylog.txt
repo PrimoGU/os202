@@ -85,8 +85,10 @@ ZCZC  W07  15  L20  Assignment #10
 ZCZC  W07  20  L03  GitHub related
 ZCZC  W08  45  L06  Reading References/Books/Documents
 ZCZC  W08  30  L16  Assignment #6
-ZCZC  W08  60  L20  Assignment #10
-ZCZC  W08  40  L21  Assignment #11
+ZCZC  W08  60  L06  Reading References/Books/Documents
+ZCZC  W08 180  L20  Assignment #10
+ZCZC  W08  30  L08  Trying something
+ZCZC  W08  60  L21  Assignment #11
 ZCZC  W08  30  L04  GitHub Pages
 ZCZC  W08  20  L14  Assignment #4
 ZCZC  W08 120  L06  Reading References/Books/Documents
