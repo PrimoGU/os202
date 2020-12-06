@@ -36,6 +36,11 @@ ZCZC W06 rabialco
 ZCZC W06 raihanarmon
 
 # Week07
-ZCZC W06 raihamarmon
-ZCZC W06 rabialco
-ZCZC W06 piawaisaid
+ZCZC W07 raihamarmon
+ZCZC W07 rabialco
+ZCZC W07 piawaisaid
+
+# Week08
+ZCZC W08 rabialco
+ZCZC W08 raihanarmon
+ZCZC W08 qiwqiw

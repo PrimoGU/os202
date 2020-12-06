@@ -96,3 +96,15 @@ ZCZC  W08 100  L15  Assignment #5
 ZCZC  W08  20  L17  Assignment #7
 ZCZC  W08  15  L19  Assignment #9
 ZCZC  W08  20  L03  GitHub related
+ZCZC  W09  60  L06  Reading References/Books/Documents
+ZCZC  W09  15  L16  Assignment #6
+ZCZC  W09 600  L20  Assignment #10
+ZCZC  W09  60  L08  Trying something
+ZCZC  W09  45  L21  Assignment #11
+ZCZC  W09  30  L04  GitHub Pages
+ZCZC  W09  20  L14  Assignment #4
+ZCZC  W09 120  L06  Reading References/Books/Documents
+ZCZC  W09  90  L15  Assignment #5
+ZCZC  W09  20  L18  Assignment #8
+ZCZC  W09  15  L19  Assignment #9
+ZCZC  W09  30  L03  GitHub related
